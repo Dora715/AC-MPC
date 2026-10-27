@@ -1,0 +1,6 @@
+[submodule "mpc.pytorch"]
+	path = mpc.pytorch
+	url = git@github.com:locuslab/mpc.pytorch.git
+[submodule "stable-baselines3"]
+	path = stable-baselines3
+	url = git@github.com:uzh-rpg/stable-baselines3-acmpc.git
